@@ -65,7 +65,7 @@ Non-Technical Challenges:
 Defining Extraction Rules:
 
 Financial emails contain inconsistent formats, requiring configurable extraction rules.
-Balancing Accuracy & Performance:
+Balancing Accuracy and Performance:
 
 Optimizing between classification accuracy and processing time, especially for large attachments.
 
